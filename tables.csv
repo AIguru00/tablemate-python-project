@@ -1,0 +1,9 @@
+table_id,table_capacity,table_placement,table_type,table_description,is_bookable
+1,2,window,standard,smaller table by the window,true
+2,4,indoors,standard,centrally located table,true
+3,4,terrace,terrace,table on the outdoor seating area,true
+4,2,quiet area,standard,table in a quieter section,true
+5,6,indoors,standard,larger table for groups,true
+6,4,window,standard,table with a view,true
+7,2,terrace,terrace,smaller terrace table,true
+8,8,indoors,standard,large table for gatherings,true
